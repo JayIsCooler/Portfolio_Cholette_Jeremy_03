@@ -10,9 +10,9 @@ METAMORPHOSIS ART NUMÉRIQUE & IMMERSIF
 Le lieu de mise en exposition est l'Arsenal art contemporain.
 ## Date de notre visite
 Le jeudi 10 février 2022.
-## Description de l'oeuvre ou du dispositif multimédia(citer sa source)
+## Description de l'oeuvre ou du dispositif multimédia
 L'oeuvre Dreams utilise des images des milliers d'images pour créer une expérience unique et hors du commun. L'oeuvre space Dreams utilise des images capturées a partir de la Station spatiale internationale. L'oeuvre Nature Dreams utilise plus de 69 millions d'images de parcs nationaux, de l'Islande et d'autres merveilles naturelles.(source : Fiche descriptive de l'oeuvre à la METAMORPHOSIS ART NUMÉRIQUE & IMMERSIF)      
-## Explications sur la mise en espace de l'oeuvre ou du dispositif(texte à composer)
+## Explications sur la mise en espace de l'oeuvre ou du dispositif
 
 ## Listes des composantes et techniques de l'oeuvre ou du dispositif
 Un téléviseur aves une résolution Ultra Haute Définition(4k), des câble d'alimentation, des câble permettant l'affichage d'une résolution Ultra Haute Définition(4k)  
