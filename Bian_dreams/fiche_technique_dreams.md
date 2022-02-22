@@ -17,15 +17,15 @@ L'oeuvre est situé sur le mur gauche du couloir, à droite il y a des sièges p
 ## Listes des composantes et techniques de l'oeuvre ou du dispositif
 Un téléviseur aves une résolution Ultra Haute Définition(4k), des câble d'alimentation, des câble permettant l'affichage d'une résolution Ultra Haute Définition(4k)  
 ## Liste des éléments nécessaires pour la mise en exposition
-
+Les éléments qui sont nécessaires pour la mise en exposition de l'oeuvre sont un mur, une source d'alimentation et un ordinateur qui va envoyer les images au téléviseur.
 ## Expérience vécue
 
 ## Description de mon expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser
 
 ## Ce qui m'a plu, vous a donné des idées et justifications
-
+J'ai adoré l'idée de prendre des images et de les fusioner en temps réel ce qui crée un effet de déconstruction. Cela ma donner l'idée de faire une oeuvre numérique en 3D qui reprendrait l'idée de l'oeuvre Dreams c'est à dire fusioner des éléments et les déconstruires. Cette oeuvre en 3D fouillerait dans un répertoire de forme en 3D et les mélanges pour ensuite les faire disparaître sous forme de pixels.
 ## Aspect que je souhaiterais faire autrement ou ce que je changerais
-
+J'aurais aimer que l'oeuvre soit un peu plus grosse et qu'elle soit plus espacé.
 
 
 
