@@ -1,1 +1,1 @@
-**Ce dossier contient toute mes images et fichiers multimédia.
+Ce dossier contient toute mes images et fichiers multimédia.
