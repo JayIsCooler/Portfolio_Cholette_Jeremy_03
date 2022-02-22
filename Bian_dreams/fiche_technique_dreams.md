@@ -19,9 +19,9 @@ Un téléviseur aves une résolution Ultra Haute Définition(4k), des câble d'a
 ## Liste des éléments nécessaires pour la mise en exposition
 Les éléments qui sont nécessaires pour la mise en exposition de l'oeuvre sont un mur, une source d'alimentation et un ordinateur qui va envoyer les images au téléviseur.
 ## Expérience vécue
-
+J'ai trouver l'oeuvre relaxante et intriguante à la fois. Au départ je ne comprenias pas bien ce que nous étions supposer voir mais, en allant lire la fiche descriptive j'ai compris ce que l'oeuvre représentait et comment elle le fesait. Selon c'était l'oeuvre la plus jolie de toute l'exposition.
 ## Description de mon expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser
-
+La seul chose à faire avec cette oeuvre c'est de s'asseoir et de contempler les différentes images qui défile.
 ## Ce qui m'a plu, vous a donné des idées et justifications
 J'ai adoré l'idée de prendre des images et de les fusioner en temps réel ce qui crée un effet de déconstruction. Cela ma donner l'idée de faire une oeuvre numérique en 3D qui reprendrait l'idée de l'oeuvre Dreams c'est à dire fusioner des éléments et les déconstruires. Cette oeuvre en 3D fouillerait dans un répertoire de forme en 3D et les mélanges pour ensuite les faire disparaître sous forme de pixels.
 ## Aspect que je souhaiterais faire autrement ou ce que je changerais
