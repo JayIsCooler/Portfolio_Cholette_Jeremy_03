@@ -2,7 +2,7 @@
 
 L'oeuvre est séparée en trois parties. La première oeuvre se nomme Space Dreams, la deuxième Urban Dreams et la dernière Nature Dreams. Les trois oeuvres ensemble se nomme Dreams.
 ## Nom de l'artiste
-![photo](medias/DREAMS_vue_couloir_2.png)
+![photo](medias/Dreams_vue_couloir_2.png)
 Le nom de l'artiste est Refik Anadol.
 
 ![photo](medias/Refik_Anadol.png)
