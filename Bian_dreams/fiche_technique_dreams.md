@@ -1,6 +1,13 @@
 ## Titre de l'oeuvre ou de la réalisation
 
 L'oeuvre est séparée en trois parties. La première oeuvre se nomme Space Dreams, la deuxième Urban Dreams et la dernière Nature Dreams. Les trois oeuvres ensemble se nomme Dreams.
+
+![photo](medias/Moi_et_space_dreams.png)
+
+![photo](medias/Urban_dreams.png)
+
+![photo](medias/Nature_Dreams.png)
+
 ## Nom de l'artiste
 Le nom de l'artiste est Refik Anadol.
 
