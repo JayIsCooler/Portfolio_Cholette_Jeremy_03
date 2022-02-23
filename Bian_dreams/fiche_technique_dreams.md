@@ -43,6 +43,8 @@ Les éléments qui sont nécessaires pour la mise en exposition de l'oeuvre sont
 ## Expérience vécue
 
 J'ai trouver l'oeuvre relaxante et intriguante à la fois. Au départ je ne comprenias pas bien ce que nous étions supposer voir mais, en allant lire la fiche descriptive j'ai compris ce que l'oeuvre représentait et comment elle le fesait. Selon c'était l'oeuvre la plus jolie de toute l'exposition.
+
+![photo](medias/Moi_et_space_dreams.png)
 ## Description de mon expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser
 
 La seul chose à faire avec cette oeuvre c'est de s'asseoir et de contempler les différentes images qui défile.
