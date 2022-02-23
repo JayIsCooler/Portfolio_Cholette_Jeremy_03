@@ -30,9 +30,13 @@ L'oeuvre Dreams utilise des images des milliers d'images pour créer une expéri
 ## Explications sur la mise en espace de l'oeuvre ou du dispositif
 
 L'oeuvre est situé sur le mur gauche du couloir, à droite il y a des sièges pour s'asseoir et le milieu du couloir sert à circuler.
+
+![photo](medias/DREAMS_vue_couloir.png)
 ## Listes des composantes et techniques de l'oeuvre ou du dispositif
 
-Un téléviseur aves une résolution Ultra Haute Définition(4k), des câble d'alimentation, des câble permettant l'affichage d'une résolution Ultra Haute Définition(4k)  
+Un téléviseur aves une résolution Ultra Haute Définition(4k), des câble d'alimentation, des câble permettant l'affichage d'une résolution Ultra Haute Définition(4k) 
+
+![photo](medias/Câblage.png)
 ## Liste des éléments nécessaires pour la mise en exposition
 
 Les éléments qui sont nécessaires pour la mise en exposition de l'oeuvre sont un mur, une source d'alimentation et un ordinateur qui va envoyer les images au téléviseur.
