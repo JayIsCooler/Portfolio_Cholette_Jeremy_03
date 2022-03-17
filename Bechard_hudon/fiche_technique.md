@@ -1,7 +1,7 @@
 # Titre de l'oeuvre ou de la réalisation
 ## Le fleuve, 50°11'53,8"N.,66°4'10"O.
 # Nom de l'artiste
-Catherine  Béchard et Sabin Hudon.
+## Catherine  Béchard et Sabin Hudon.
 # Année de réalisation
 ## L'oeuvre à été réaliser en 2021
 # Nom de l'exposition
