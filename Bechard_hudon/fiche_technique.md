@@ -10,9 +10,9 @@
 
 ## Date de notre visite
 
-## Description de l'oeuvre ou du dispositif multimédia(citer sa source)
+## Description de l'oeuvre ou du dispositif multimédia
 
-## Explications sur la mise en espace de l'oeuvre ou du dispositif(texte à composer)
+## Explications sur la mise en espace de l'oeuvre ou du dispositif
 
 ## Listes des composantes et techniques de l'oeuvre ou du dispositif
 
