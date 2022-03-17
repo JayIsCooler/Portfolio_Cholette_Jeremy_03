@@ -1,5 +1,5 @@
 # Titre de l'oeuvre ou de la réalisation
-## Le fleuve
+## Le fleuve, 50°11'53,8"N.,66°4'10"O.
 # Nom de l'artiste
 
 # Année de réalisation
