@@ -27,6 +27,7 @@ Un projecteur, un ordinateur et la vidéo de l'oeuvre.
 
 # Liste des éléments nécessaires pour la mise en exposition
 Les éléments nécessaires sont un mur, une source d'alimentation et un ordinateur qui va projeter la vidéo par un projecteur.
+![photo](medias/Le_fleuve_projecteur.jpg)
 
 # Expérience vécue
 J'ai trouver l'oeuvre hypnotisante et relaxante. Lorsque nous sommes arrivés devant l'oeuvre, j'ai tout de suite compris ce que L'en deçà qui était situer juste derrière se mélangeais avec Le fleuve.
