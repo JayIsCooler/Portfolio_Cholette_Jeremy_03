@@ -8,7 +8,7 @@
 ## L'oeuvre à été réaliser en 2021
 
 # Nom de l'exposition
-## Configuration sensible
+## Configuration Sensible
 
 # Lieu de mise en exposition
 ## Maison des arts de Laval.
