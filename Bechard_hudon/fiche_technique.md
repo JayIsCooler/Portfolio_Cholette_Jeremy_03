@@ -1,5 +1,6 @@
 # Titre de l'oeuvre ou de la réalisation
 ## Le fleuve, 50°11'53,8"N.,66°4'10"O.
+![photo](medias/Le_fleuve_oeuvre.jpg)
 
 # Nom de l'artiste
 ## Catherine Béchard et Sabin Hudon.
@@ -18,6 +19,7 @@
 
 # Description de l'oeuvre ou du dispositif multimédia
 Les images dédoubler qui sont présente sur la vidéo ont été tourner à la Pointe de Moisie. La vidéo est hyptnotique et le paysage se mélange parfaitement avec les sons marins de L'en deçà.
+![photo](medias/Le_fleuve_disposition.jpg)
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif
 L'oeuvre est située derrière l'oeuvre L'en deçà dans le coin droit de la pièce. 
