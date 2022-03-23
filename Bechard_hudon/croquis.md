@@ -1,1 +1,1 @@
-![photo](medias/Le_fleuve_croquis.PNG)
+![photo](medias/Le_fleuve_croquis.png)
