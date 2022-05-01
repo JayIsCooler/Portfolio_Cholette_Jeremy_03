@@ -23,6 +23,7 @@
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif
 ## L'oeuvre est situer en face de la porte d'entrée du studio juste à côté de Chronaufrage.
+![photo](medias/3_minutes_plan.png)
 
 # Listes des composantes et techniques de l'oeuvre ou du dispositif
 ## Un ordinateur, un casque de réalité virtuelle, des capteurs de mouvements, un projecteur de lumière et des haut-parleurs.
