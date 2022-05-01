@@ -3,6 +3,9 @@
 
 # Nom de l'artiste
 ## Naoufal Bensaiad, Jérémie Lévesque et Samuel Poulin
+![photo](medias/3_minutes_jeremie_levesque.PNG)
+![photo](medias/3_minutes_naoufal_bensaiad.PNG)
+![photo](medias/3_minutes_samuel_poulin.PNG)
 
 # Année de réalisation
 ## 2021
