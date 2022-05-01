@@ -18,15 +18,20 @@
 
 # Description de l'oeuvre ou du dispositif multimédia
 ## Nous arrivons sous un cercle de lumière, à notre gauche il y a un casque de réalité virtuelle sur une table. Lorsque nous mettons le casque nous nous retrouvons dans un gymnase et le but est de toucher le plus de cible possible avec des baloons en 3 minutes. Une fois les 3 minutes écoulé, nous déposons le casque et nous dirigeons vers un petit couloir où il y a un casier. Vous entrez dans le casier et y rester pendant 3 minutes. Durant les 3 minutes dans le casier, des sons de ballons et d'enfant serons entendu à l'extérieur du casier.
+![photo](medias/3_minutes_description.png)
+
 
 # Explications sur la mise en espace de l'oeuvre ou du dispositif
 ## L'oeuvre est situer en face de la porte d'entrée du studio juste à côté de Chronaufrage.
 
 # Listes des composantes et techniques de l'oeuvre ou du dispositif
 ## Un ordinateur, un casque de réalité virtuelle, des capteurs de mouvements, un projecteur de lumière et des haut-parleurs.
+![photo](medias/3_minutes_casque_vr.png)
+![photo](medias/3_minutes_projecteur_lumiere.png)
 
 # Liste des éléments nécessaires pour la mise en exposition
 ## Les éléments nécessaires sont un couloir, un plafond assez haut, une prise d'alimentation et un ordinateur pour faire fonctionner le jeu dans les casque de réalité virtuelle.
+![photo](medias/3_minutes_cercle_lumiere.png)
 
 # Expérience vécue
 ## J'ai trouver la façon dont ils démontrer le temps dans leur oeuvre assez intéressante. Ils font passer un message sur l'intimidation dans leur projet ce que je trouve vraiment géniale car elle démontre vraiment les impactes que les gens qui se font intimider ressentent.
