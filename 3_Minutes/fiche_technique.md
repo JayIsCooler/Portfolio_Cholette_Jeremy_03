@@ -69,3 +69,4 @@ Je crois que la seule chose qui serait à changer serait de donner la feuille d'
 ## 6: Distorsion collective
 ## Distortion collective est selon moi l'oeuvre la moins intéressante de toute les oeuvres exposé. Il n'y avait aucune intéractivité et l'oeuvre était quand même longue à faire. Son manque d'intéractivité l'a placé en dernière position. Le message porter par l'oeuvre était très impactant ce qui m'a agréablement surpris.
 
+source: https://tim-montmorency.com/2022/projets/3-minutes/docs/web/index.html
