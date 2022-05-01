@@ -39,6 +39,8 @@
 
 # Description de mon expérience de l'oeuvre ou du dispositif, de l'intéractivité, des gestes à poser
 ## Nous arivons sous une lumière et nous devons prendre un casque de reéalité virtuelle poser sur une table à notre gauche. Une fois le jeu des ballons terminée, nous nous dirigeons dans un petit couloir sombre et pénétrons dans un petit casier. Une fois les 3 minutes dans le casier écoulé, un message audio vous demandera de quitter le casier.
+![photo](medias/3_minutes_casier.PNG)
+
 
 # Ce qui m'a plu, vous a donné des idées et justifications
 ## Je trouve que cette oeuvre était celle qui démontrait le plus la contrainte du temps. J'ai adorer l'idée de nous faire participer à deux activitées ayant la même durée pour nous démontrer que le temps passe plus vite lorsque nous somme heureux et plus lentement lorsque nous sommes malheureux.
