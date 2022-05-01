@@ -39,3 +39,27 @@
 
 # Aspect que je souhaiterais faire autrement ou ce que je changerais
 Je crois que la seule chose qui serait à changer serait de donner la feuille d'instruction au début car le jeu peut-être assez confu.
+
+# Mon classement des oeuvres 
+
+## 1: 3 Minutes
+3 Minutes est monter en première place à cause de son intéractivité et de son originalité. C'est l'oeuvre que j'ai le plus apprécier de toute celle qui était présenté. J'ai aussi beaucoup aimer la façon dont ils représentent le temps dans leur oeuvre.
+
+## 2: L'horloge de l'apocalypse
+Horloge de l'apocalypse est rester en deuxième position car l'oeuvre fonctionnait exactemment de la façon décrite. J'ai adorer l'idée de pouvoir changer de période du temps grâce aux aiguilles d'une horloge. Le changement des périodes du temps était rapide et fluide ce qui était agréable.
+
+
+## 3: Chère Sasha
+Chère Sasha est monter en troisième position car l'histoire et la mise en place etait beaucoup plus intéressante que je l'aurais penser. Au départ je ne voyais pas vraiment quelque chose d'incroyable mais lorsque je l'ai vécu, ma perception de l'oeuvre a totalement changer.
+
+
+## 4: Jeu Temporel
+Jeu temporel est monter en quatrième position grâce à son intéractivité. La façon dont le quiz était fait l'a rendu plus unique que la plupart des quiz. La façon dont l'oeuvre était exposer etait vraiment super, je trouve que sa lui donnait du style et plus de vie.
+
+## 5: Chronaufrage
+Chronaufrage est descendu en cinquième position car l'oeuvre n'avait pas beaucoup d'aspect intéractif en comparaison avec les autres oeuvres. L'oeuvre était incroyable visuellement.  
+
+
+## 6: Distorsion collective
+Distortion collective est selon moi l'oeuvre la moins intéressante de toute les oeuvres exposé. Il n'y avait aucune intéractivité et l'oeuvre était quand même longue à faire. Son manque d'intéractivité l'a placé en dernière position. Le message porter par l'oeuvre était très impactant ce qui m'a agréablement surpris.
+
