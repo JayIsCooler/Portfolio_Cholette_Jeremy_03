@@ -1,1 +1,1 @@
-# Ce dossier contient ma documentation de l'oeuvre De l'aide en cas de catastrophe.
+# Ce dossier contient ma documentation et ma présentation orale de l'oeuvre De l'aide en cas de catastrophe.
